@@ -8,6 +8,7 @@
 #' @export
 hello_recon <- function(input) {
   "Hello RECON"
+  a=1
 }
 
 #' You can also document internal package function with roxygen
